@@ -26,4 +26,5 @@ Contact me
 | Social Media Dashboard  | Aggregates social media metrics from various platforms  | API integration |
 | CustomerFeedbackApp  | Developed a customer feedback application to understand customer satisfaction levels.  | React, Node.js |
 | Library Management System | Designed and implemented a library management system | C++ |
+| Customer Support Ticket Analyzer | Resolved complex customer support issues by developing a ticket analysis tool | JS |
 
