@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Rimjhim Sudhesh 👋
 
 <!--
 **rimjhimsudhesh/rimjhimsudhesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a student at the University of Washington studying Computer Science. My skills lie mostly in backend development with languages like Java, Python, C++ and the usage of APIs, mySQL, and React. I'm also interested in Artifical Intelligence and am beginning to explore different ML projects. 
+
+Contact me 
+- [LinkedIn](www.linkedin.com/in/rimjhim-sudhesh)
+
+
+
+
+
