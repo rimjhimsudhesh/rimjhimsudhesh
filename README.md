@@ -19,7 +19,11 @@ I am a student at the University of Washington studying Computer Science. My ski
 Contact me 
 - [LinkedIn](www.linkedin.com/in/rimjhim-sudhesh)
 
+### Relevant Projects
 
-
-
+| Name          | Description | Skill |
+| ------------- | ------------- | -------------
+| Social Media Dashboard  | Aggregates social media metrics from various platforms  | API integration |
+| CustomerFeedbackApp  | Developed a customer feedback application to understand customer satisfaction levels.  | React, Node.js |
+| Library Management System | Designed and implemented a library management system | C++ |
 
