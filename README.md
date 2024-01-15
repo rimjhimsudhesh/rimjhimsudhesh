@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a student at the University of Washington studying Computer Science. My skills lie mostly in backend development with languages like Java, Python, C++ and the usage of APIs, mySQL, and React. I'm also interested in Artifical Intelligence and am beginning to explore different ML projects. 
+Currently enrolled in a Bachelor’s program with a major in Computer Science (expected graduation: 2025/2026). Hands-on expertise in full-stack development, encompassing Java, Python, C++, React, Javascript, HTML, CSS, PostgreSQL databases, and Machine Learning libraries. Proficient in Agile methodologies, including scrums, agile ceremonies, and sprints. Demonstrated success in delivering tangible results through internships and personal projects. Eager to apply my technical skills, passion, and problem-solving abilities to make impactful contributions to challenging industry internship projects. 
 
 Contact me 
 - [LinkedIn](www.linkedin.com/in/rimjhim-sudhesh)
